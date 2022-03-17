@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Developmental Stage Classification of Embryos Using Two-Stream Neural Network with Linear-Chain Conditional Random Field.
 
 ### Paper
@@ -18,9 +17,4 @@ If you are a user from a for-profit company seeking to use Developmental Stage C
 By cloning, downloading, or using any file in this repository, you are accepting and agreeing to the terms of the license agreement annotated in “LICENSE.md” file.
 
 Please direct any questions to: Evie Santana-Nola santana@seas.harvard.edu
-=======
-# lc-crf-embryo-classification
-The code for the paper "Developmental Stage Classification of Embryos Using Two-Stream Neural Network with Linear-Chain Conditional Random Field", MICCAI-2021
 
-We will make the code availiable soon.
->>>>>>> b8593998900b4a4a2b336197dcc794df034ca3ad
