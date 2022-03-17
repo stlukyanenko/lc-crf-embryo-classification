@@ -1,0 +1,5 @@
+torch==1.7.0
+torch-struct @ git+https://github.com/harvardnlp/pytorch-struct@9f934322c002c49bae1131b2786d758b1cd8dfaa
+torchvision==0.8.1
+json5==0.9.5
+numpy==1.18.5
